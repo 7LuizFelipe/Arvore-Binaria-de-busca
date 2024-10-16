@@ -1,0 +1,3 @@
+C:/Users/luizf/CLionProjects/arvorebinaria/cmake-build-debug/CMakeFiles/arovrebinaria.dir
+C:/Users/luizf/CLionProjects/arvorebinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luizf/CLionProjects/arvorebinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
